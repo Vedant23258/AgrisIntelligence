@@ -55,7 +55,7 @@ backend/venv/
 backend/venv_bk/
 
 # Large data files (if any)
-*.csv
+# *.csv  # Commented out to include sample data
 *.xlsx
 *.xls
 
